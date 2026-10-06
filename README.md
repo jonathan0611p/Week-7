@@ -18,3 +18,4 @@ GitHub: save, commit, push, and verify each Action checkpoint online.
 Source package: include this project, Assets, README and Evidence; omit bin/obj/.vs.
 Extract elsewhere, open the csproj, build Release, run and test with another person.
 A source ZIP needs the SDK/Visual Studio. It is not a standalone executable.
+Isaias- Added the pictures needed/related to the story made.
