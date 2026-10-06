@@ -11,7 +11,7 @@ public partial class MainWindow : Window
     private record Slide(string Text, string ImagePath, string Description);
     private readonly Slide[] slides =
     {
-        new Slide("A signal reaches the next crew. What do they need to know?", "Assets/Images/01.png", "A signal card: the story begins."),
+        new Slide("A signal reaches the next crew. What do they need to know?", "Assets/Images/04.png", "A signal card: the story begins."),
         new Slide("The crew compares the route with the last reliable observation.", "Assets/Images/02.png", "A route card: inspect the problem."),
         new Slide("Leave a clear account for the next reader. Your story continues here.", "Assets/Images/03.png", "A handoff card: record the result.")
     };
