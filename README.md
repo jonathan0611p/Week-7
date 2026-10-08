@@ -1,3 +1,6 @@
+
+Isaias- Added the pictures needed/related to the story made.
+
 Paul: Wrote team name and names on the board, collaborated with Isaias to come up with our slideshow story and recap of c#
 Mio: Drew the storyboard for the slideshow and helped with the recap of the C#
 Isaias: With Paul came up with the slideshow story and helped with the recap.
